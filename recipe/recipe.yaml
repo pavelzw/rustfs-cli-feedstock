@@ -1,5 +1,5 @@
 context:
-  version: "0.1.35"
+  version: "0.1.36"
 
 package:
   name: rustfs-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rustfs/cli/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: a4cdf29bf2621f0edc3f37ef02f1608e5f5cc5e389951e61e99353d8e4d4b55b
+  sha256: b48a2161452a078f1629e43c5c17a0e5a03deec8fde22ae4972e51166ed591dc
 
 build:
   number: 0
